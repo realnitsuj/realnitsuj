@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 About
 
-<!--
-**realnitsuj/realnitsuj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! My name is Justin, an engineering student at [Télécom Saint-Étienne](https://www.telecom-st-etienne.fr/), France, currently in double degree at [UQAC](https://www.uqac.ca/), Canada.
 
-Here are some ideas to get you started:
+I'm interested in technologies, cybersecurity and chess ♟️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can visit my blog (in French) for more informations: <https://realnitsuj.github.io>
+
+## 🛠️ Technologies and Tools
+
+All the technologies that I experienced with
+
+### Languages
+
+![My Languages Skills](https://go-skill-icons.vercel.app/api/icons?i=bash,c,cpp,py,lua,java,html,css,js,php,mysql&titles=true)
+
+### Platforms
+
+![My Platforms Skills](https://go-skill-icons.vercel.app/api/icons?i=debian,gentoo,arch,kali,tailos,linux,systemd,windows,docker,raspberrypi,arduino,platformio&titles=true)
+
+### Editors/IDE
+
+![My Editors](https://go-skill-icons.vercel.app/api/icons?i=neovim,vscode&titles=true)
+
+### Misc
+
+![Misc Skills](https://go-skill-icons.vercel.app/api/icons?i=git,latex,md&titles=true)
