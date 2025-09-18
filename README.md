@@ -16,7 +16,7 @@ All the technologies that I experienced with
 
 ### Platforms
 
-![My Platforms Skills](https://go-skill-icons.vercel.app/api/icons?i=debian,gentoo,arch,kali,tailos,linux,systemd,windows,docker,raspberrypi,arduino,platformio&titles=true)
+![My Platforms Skills](https://go-skill-icons.vercel.app/api/icons?i=debian,gentoo,arch,kali,tailsos,linux,systemd,windows,docker,raspberrypi,arduino,platformio&titles=true)
 
 ### Editors/IDE
 
