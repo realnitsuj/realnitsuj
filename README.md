@@ -6,7 +6,7 @@ I'm interested in technologies, cybersecurity and chess ♟️
 
 You can visit my blog (in French) for more informations: <https://realnitsuj.github.io>
 
-## 🛠️ Technologies and Tools
+## 🧰 Technologies and Tools
 
 All the technologies that I experienced with
 
