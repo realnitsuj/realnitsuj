@@ -1,6 +1,7 @@
 ## 👋 About
 
-Hi! My name is Justin, an engineering student at [Télécom Saint-Étienne](https://www.telecom-st-etienne.fr/), France, currently in double degree at [UQAC](https://www.uqac.ca/), Canada.
+Hi! My name is Justin, and I'm an engineering student at [Télécom Saint-Étienne](https://www.telecom-st-etienne.fr/) in France.  
+I'm currently pursuing a double degree at [UQAC](https://www.uqac.ca/) in Canada.
 
 I'm interested in technologies, cybersecurity and chess ♟️
 
