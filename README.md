@@ -1,28 +1,28 @@
-## 👋 About
+## Hi there 👋
 
-Hi! My name is Justin, and I'm an engineering student at [Télécom Saint-Étienne](https://www.telecom-st-etienne.fr/) in France.  
-I'm currently pursuing a double degree at [UQAC](https://www.uqac.ca/) in Canada.
+My name is Justin, and I'm an engineering student at [Télécom Saint-Étienne](https://www.telecom-st-etienne.fr/) in France.  
+I'm currently pursuing a double degree at [UQAC](https://www.uqac.ca/) in Canada ✈️
 
-I'm interested in technologies, cybersecurity and chess ♟️
+I'm interested in **technology**, **cybersecurity** and **chess** ♟️
 
-You can visit my blog (in French) for more informations: <https://realnitsuj.github.io>
+Check out my [blog](https://realnitsuj.github.io) (in French) for more insights ✍️
 
 ## 🧰 Technologies and Tools
 
-All the technologies that I experienced with
+Technologies I have experience with
 
-### Languages
+### 📝 Languages
 
-![My Languages Skills](https://go-skill-icons.vercel.app/api/icons?i=bash,c,cpp,py,lua,java,html,css,js,php,mysql&titles=true)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=bash,c,cpp,py,lua,java,html,css,js,php,mysql&titles=true)
 
-### Platforms
+### 💻 Platforms
 
-![My Platforms Skills](https://go-skill-icons.vercel.app/api/icons?i=debian,gentoo,arch,kali,tailsos,linux,systemd,windows,docker,raspberrypi,arduino,platformio&titles=true)
+![Platforms](https://go-skill-icons.vercel.app/api/icons?i=debian,gentoo,arch,kali,tailsos,linux,systemd,windows,docker,raspberrypi,arduino,platformio&titles=true)
 
-### Editors/IDE
+### ⌨️ Editors & IDEs
 
-![My Editors](https://go-skill-icons.vercel.app/api/icons?i=neovim,vscode&titles=true)
+![Editors](https://go-skill-icons.vercel.app/api/icons?i=neovim,vscode&titles=true)
 
-### Misc
+### 📦 Miscellaneous
 
-![Misc Skills](https://go-skill-icons.vercel.app/api/icons?i=git,latex,md&titles=true)
+![Misc](https://go-skill-icons.vercel.app/api/icons?i=git,latex,md&titles=true)
