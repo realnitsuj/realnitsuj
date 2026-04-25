@@ -5,7 +5,7 @@ I'm currently pursuing a double degree at [UQAC](https://www.uqac.ca/) in Canada
 
 I'm interested in **technology**, **cybersecurity** and **chess** ♟️
 
-Check out my [blog](https://realnitsuj.github.io) (in French) for more insights ✍️
+<!--Check out my [blog](https://realnitsuj.codeberg.page/) (in French) for more insights ✍️-->
 
 ## 🧰 Technologies and Tools
 
